@@ -6,6 +6,8 @@ Moveo is basic wear engine data sending and receiving application. User can send
 
 The application acts as the mobile counterpart of the moveo wearable app and is responsible for data display.
 
+> **Companion app:** This is the Android phone side of Moveo. The Lite Wearable watch app it pairs with is [sportwatch-moveo](https://github.com/Explore-In-HMOS-Wearable/sportwatch-moveo). Install both to try the full flow.
+
 # Preview
 
 <div>
